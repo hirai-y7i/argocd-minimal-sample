@@ -23,7 +23,7 @@ spec:
         color: blue
     spec:
       containers:
-      - image: docker.io/hiraiy7i/hwakabhcitest:57183cdb20104f6c737db2713806e333554b37c2
+      - image: docker.io/hiraiy7i/hwakabhcitest:a5bb363edc7e656270bed8f4ee0e3a15658744ab
         name: nginx-alice
         ports:
           - containerPort: 80
